@@ -5,6 +5,7 @@
 
  <div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlb3ssa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)   
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlb3ssa&theme=tokyonight&layout=compact)](https://github.com/rlbessa/github-readme-stats)
 
  </div>
